@@ -1,4 +1,9 @@
 # Periodic NBO software
+
+__DEPRECATED__: please head to [official repo](https://github.com/jrschmidt2/periodic-NBO).
+
+---
+
 *This project is originally written by Schmidt Research Group @ University of Wisconsin–Madison.
 Forked from [🔗LINK](https://schmidt.chem.wisc.edu/nbosoftware).*
 
